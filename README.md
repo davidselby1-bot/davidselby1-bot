@@ -14,6 +14,3 @@ From scaling early stage products to optimising complex omnichannel platforms, I
 - 💼 [LinkedIn](https://www.linkedin.com/in/davidjselby)
 - 📧 [Email](mailto:davidselby1@gmail.com)
 - 🐕 [Photography] (https://instagram.com/luna_fluffgood_spaniel) - follow the adventures of my wife and cocker spaniel
-
----
-*PM who builds things. Currently exploring [your focus area].*
