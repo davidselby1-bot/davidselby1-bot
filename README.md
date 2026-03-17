@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm David 👋
 
-<!--
-**davidselby1-bot/davidselby1-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Build
+I build customer first digital products across fintech startups and large scale ecommerce, shaping app and web experiences from the ground up. With a background in architecture and UX I bring structured approaches to product that balances form, function and performance.
 
-Here are some ideas to get you started:
+From scaling early stage products to optimising complex omnichannel platforms, I focus on using data, experimentation, and insight to drive measurabl growth, improve customer experiences, and create experiences that actually work for the people who use them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+- 📚 Learning how to work in partnership with AI to automate workflow and improve efficiency and output
+- 🏗️ Learn how to build and continuously optimise LLMs to solve everyday challenges
+- 🤝 Teach and learn from other members of product and engineering community
+
+## Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/davidjselby)
+- 📧 [Email](mailto:davidselby1@gmail.com)
+- 🐕 [Photography] (https://instagram.com/luna_fluffgood_spaniel) - follow the adventures of my wife and cocker spaniel
+
+---
+*PM who builds things. Currently exploring [your focus area].*
